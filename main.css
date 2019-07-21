@@ -1,0 +1,8 @@
+body{
+    background: url(/img/glass-1.jpg);
+    background: url(/img/chairs-1.jpg);
+    background: url(/img/flower-1.jpg);
+
+    border: 2px solid black;
+    text-decoration: none;
+}
